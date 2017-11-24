@@ -1,0 +1,3 @@
+# gitrobsample
+gitrob
+aws cred:12341342635745e74578534635748648
